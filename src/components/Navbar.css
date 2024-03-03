@@ -15,6 +15,7 @@
 .list {
     display: flex;
     gap: 1.5em;
+    list-style: none;
 }
 .logo:hover, .list li:hover {
     font-weight: 800;

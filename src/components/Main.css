@@ -45,6 +45,7 @@ body {
     color: #fff;
     font-weight: 500;
     margin-right: auto;
+    border: none;
 }
 .save:hover {
     background-color: rgb(209, 59, 0);
